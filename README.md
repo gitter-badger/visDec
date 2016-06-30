@@ -1,5 +1,7 @@
 # Visibility / Fog Detection
 
+[![Join the chat at https://gitter.im/MartinRoth/visDec](https://badges.gitter.im/MartinRoth/visDec.svg)](https://gitter.im/MartinRoth/visDec?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Travis-CI Build Status](https://travis-ci.org/MartinRoth/visDec.svg?branch=master)](https://travis-ci.org/MartinRoth/visDec)
 [![Coverage Status](https://img.shields.io/codecov/c/github/MartinRoth/visDec/master.svg)](https://codecov.io/github/MartinRoth/visDec?branch=master)
 
